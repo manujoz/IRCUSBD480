@@ -1,6 +1,6 @@
 EXPORTS
-?USBD480_UpdateFPGA@@YAHPEAUDisplayInfo@@@Z
-?USBD480_UpdateFW@@YAHPEAUDisplayInfo@@@Z
+USBD480_UpdateFPGA
+USBD480_UpdateFW
 USBD480_Close
 USBD480_DrawFromBuffer
 USBD480_DrawFullScreen
